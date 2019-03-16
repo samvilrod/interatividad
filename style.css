@@ -17,8 +17,8 @@ div.derecha{
 button.celda{
     height: 35px;
     width: 150px;
-    background-color: #7dd8c7;
-    color: green;
+    background-color: #FD5F00;
+    color: #f3f9fb;
     border: 0px;
     text-align: center;
     margin-top: 0.3em;
@@ -30,8 +30,6 @@ h3{
  color: aliceblue;
  text-align: center;  
  margin-block-start: 0em;
-
- 
 }
 #mu2{background-color: black;}
 #mu3{background-color: black;}
@@ -42,3 +40,13 @@ h3{
 #mu8{background-color: black;}
 #mu9{background-color: black;}
 #numP{background-color: black;}
+#menu {
+  background: #CCCCCC;
+  padding: 5px 15px;
+}
+#pie {
+  clear: both; 
+  text-align: center;
+  padding: 20px;
+  border-top: 2px solid #999999;
+}
